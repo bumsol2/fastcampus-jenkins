@@ -1,6 +1,4 @@
 # fastcampus-jenkins
 # fastcampus-jenkins
 
-취업시켜줘
-안바뀌는데?
-배고파
+되라
