@@ -1,4 +1,4 @@
 # fastcampus-jenkins
 # fastcampus-jenkins
 
-되라
+도커 업데이트
