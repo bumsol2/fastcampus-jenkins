@@ -1,4 +1,4 @@
 # fastcampus-jenkins
 # fastcampus-jenkins
 
-테스트
+깃 폴링 테스트
