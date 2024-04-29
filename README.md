@@ -2,4 +2,3 @@
 # fastcampus-jenkins
 
 test
-test2
